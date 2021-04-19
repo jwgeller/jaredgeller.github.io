@@ -62,6 +62,7 @@ author:
   links:
     - label: "Lansing, MI"
       icon: "fas fa-fw fa-map-marker-alt"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jaredgeller"

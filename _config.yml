@@ -16,9 +16,7 @@
 title: Jared Geller
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Parent, programmer, tutor, musician, lifetime student, ...
 twitter_username: jaredjgeller
 github_username: jaredgeller
 minimal_mistakes_skin: default
@@ -59,18 +57,20 @@ plugins:
 
 author:
   name   : "Jared Geller"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Parent, programmer, tutor, musician, lifetime student, ..."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jaredgeller.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaredjgeller"
+    - label: "Lansing, MI"
+      icon: "fas fa-fw fa-map-marker-alt"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jaredgeller"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaredgeller"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jaredjgeller"    
 
 footer:
   links:

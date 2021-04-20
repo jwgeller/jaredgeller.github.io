@@ -5,7 +5,7 @@ categories:
 tags:
   - Unity
   - Web Game
-link: /squares_game/index.html
+link: /assets/games/squares_game/index.html
 ---
 
 Play the squares game

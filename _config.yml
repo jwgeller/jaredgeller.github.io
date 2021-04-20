@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jared Geller
-email:
+email: jgeller@davenport.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Parent, programmer, tutor, musician, lifetime student, ...
 twitter_username: jaredjgeller
 github_username: jaredgeller
 minimal_mistakes_skin: default
 search: true
+repository: jaredgeller/jaredgeller.github.io
 
 # Build settings
 markdown: kramdown
@@ -62,7 +63,7 @@ author:
   links:
     - label: "Lansing, MI"
       icon: "fas fa-fw fa-map-marker-alt"
-      url: ""
+      url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jaredgeller"
@@ -90,8 +91,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages

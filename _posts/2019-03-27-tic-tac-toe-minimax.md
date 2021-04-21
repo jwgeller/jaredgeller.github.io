@@ -7,11 +7,11 @@ tags:
   - Class
 ---
 
-###Problem Definition
+# Problem Definition
 
 Create a program where a human and a computer can play tic-tac-toe.  Use minimax evaluation of the tic-tac-toe game tree in the AI routine to choose the AI's next move.  
 
-###Solution
+## Solution
 
 Using information covering the concept of minimax evaluation in a game tree (Lucci & Kopec, 2016, pp. 112-114), I have developed a program where a human and a computer can play tic-tac-toe.
 
@@ -38,6 +38,6 @@ Here are direct links to GitHub and CodePen of the work:
 
 -Jared
 
-####References
+### References
 
 Lucci, S. & Kopec, D. (2016). Artificial intelligence in the 21st century : a living introduction. Dulles, Virginia: Mercury Learning and Information.

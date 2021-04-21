@@ -1,10 +1,10 @@
 ---
 title: "Sound and Music Presentation"
 categories:
-  - Blog
+  - Davenport University
 tags:
-  - link
-  - Post Formats
+  - Local Maxima
+  - Presentation
 link: https://jaredgeller.com/assets/files/sound_and_music.pdf
 ---
 

@@ -63,25 +63,28 @@ author:
   links:
     - label: "Lansing, MI"
       icon: "fas fa-fw fa-map-marker-alt"
-      url:
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jaredgeller"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaredgeller"
+    - label: "CodePen"
+      icon: "fab fa-fw fa-codepen"
+      url: "https://codepen.io/jaredgeller"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jaredjgeller"    
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jaredjgeller"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com//jaredgeller"
+    - label: "CodePen"
+      icon: "fab fa-fw fa-codepen"
+      url: "https://codepen.io/jaredgeller"
 
 defaults:
   # _posts

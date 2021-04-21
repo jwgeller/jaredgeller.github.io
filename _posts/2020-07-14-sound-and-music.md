@@ -1,10 +1,10 @@
 ---
 title: "Puzzles and Riddles Presentation"
 categories:
-  - Blog
+  - Davenport University
 tags:
-  - link
-  - Post Formats
+  - Local Maxima
+  - Presentation
 link: https://jaredgeller.com/assets/files/puzzles_and_riddles.pdf
 ---
 

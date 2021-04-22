@@ -15,4 +15,4 @@ Press spacebar to stop the balls and make a "regression line".
 
 Mobile not supported.
 
-[Play Regression Game](/assets/games/regresion_game/index.html)
+[Play Regression Game](/assets/games/regression_game/index.html)

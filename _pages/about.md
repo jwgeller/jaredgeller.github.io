@@ -3,6 +3,22 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+> Parent, programmer, tutor, musician, lifetime student, ...
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am currently working as an application development specialist in the Lansing area.
+
+I also am a Davenport University tutor for various subjects, including programming and math courses.
+
+I am the webmaster for the Michigan branch of the Association for Microbiology.
+
+[MI-ASM](http://www.mi-asm.org)
+
+While a student at Davenport University, I was a founding member of the Local Maxima student group.
+
+[Local Maxima](https://localmaxima.org)
+
+---
+
+Check out some of my Lansing, MI favorites:
+
+[Lansing Codes](https://www.lansing.codes)

@@ -14,4 +14,4 @@ Use right-click or long hold if on mobile device to toggle pattern mode.
 
 Objective: change all white squares to black in the fewest moves possible.
 
-<a href="/assets/games/squares_game/index.html" target="_blank">Play Squares</a>
+[Play Squares Game](/assets/games/squares_game/index.html)

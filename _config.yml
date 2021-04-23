@@ -57,13 +57,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jared Geller"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "Parent, programmer, tutor, musician, lifetime student, ..."
+  name     : "Jared Geller"
+  avatar   : "/assets/images/bio-photo.png"
+  bio      : "Parent, programmer, tutor, musician, lifetime student, ..."
+  location : "Lansing, MI"
   links:
-    - label: "Lansing, MI"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: ""    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaredgeller"

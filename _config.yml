@@ -20,8 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: jaredjgeller
 github_username: jaredgeller
 minimal_mistakes_skin: dirt
-search: false
+search: true
 repository: jaredgeller/jaredgeller.github.io
+masthead_title: "Peninsular Reveries"
+logo: /assets/images/masthead_logo.png
 
 # Build settings
 markdown: kramdown

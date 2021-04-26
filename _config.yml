@@ -91,7 +91,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: false
       share: true
@@ -101,7 +101,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
 
 category_archive:
